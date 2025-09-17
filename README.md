@@ -1,6 +1,6 @@
 
 
-# European Football League Analysis – Final Project
+# European Football League Analysis
 
 ## Overview
 
